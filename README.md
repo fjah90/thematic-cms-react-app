@@ -1,2 +1,2 @@
 # thematic-cms-react-app
-React APP for thematic CMS FrontEnd
+React + Vite APP for thematic CMS FrontEnd
